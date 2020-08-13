@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="013dce49-9178-42a5-84d6-abfc12b11e46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/.goenv/versions/1.14.4" />
+  <component name="ProjectId" id="1g20xfJXhYKkhwc8WOe0ylaqlUv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build numeric-constants.go">
+    <configuration name="go Tour_of_Go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Basics/constants.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/functions.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build numeric-constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Basics/numeric-constants.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build type-conversions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Basics/type-conversions.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build type-inference.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Basics/type-inference.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build zero.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Basics/zero.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build functions.go" />
+      <item itemvalue="Go Build.go Tour_of_Go" />
+      <item itemvalue="Go Build.go build zero.go" />
+      <item itemvalue="Go Build.go build type-conversions.go" />
+      <item itemvalue="Go Build.go build type-inference.go" />
+      <item itemvalue="Go Build.go build constants.go" />
+      <item itemvalue="Go Build.go build numeric-constants.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build numeric-constants.go" />
+        <item itemvalue="Go Build.go build constants.go" />
+        <item itemvalue="Go Build.go build type-inference.go" />
+        <item itemvalue="Go Build.go build type-conversions.go" />
+        <item itemvalue="Go Build.go build zero.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013dce49-9178-42a5-84d6-abfc12b11e46" name="Default Changelist" comment="" />
+      <created>1597297627625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597297627625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597297927007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597297927007" />
+    <state width="458" height="529" key="GridCell.Tab.0.bottom" timestamp="1597311326957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="458" height="529" key="GridCell.Tab.0.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597311326957" />
+    <state width="458" height="529" key="GridCell.Tab.0.center" timestamp="1597311326956">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="458" height="529" key="GridCell.Tab.0.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597311326956" />
+    <state width="458" height="529" key="GridCell.Tab.0.left" timestamp="1597311326956">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="458" height="529" key="GridCell.Tab.0.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597311326956" />
+    <state width="458" height="529" key="GridCell.Tab.0.right" timestamp="1597311326957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="458" height="529" key="GridCell.Tab.0.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597311326957" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1597300467000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597300467000" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1597300466999">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597300466999" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1597300466999">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597300466999" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1597300467000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597300467000" />
+    <state x="418" y="176" width="604" height="548" key="find.popup" timestamp="1597302857392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="176" width="604" height="548" key="find.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597302857392" />
+  </component>
+</project>
