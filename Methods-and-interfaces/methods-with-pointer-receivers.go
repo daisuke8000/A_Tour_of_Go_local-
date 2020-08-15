@@ -1,0 +1,26 @@
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Vertex6 struct {
+	X, Y float64
+}
+
+func (v *Vertex6) Scale(f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+
+func (v *Vertex6) Abs() float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+
+func main() {
+	v := &Vertex6{9, 7}
+	fmt.Printf("Before scaling:%+v, Abs:%v\n", v, v.Abs())
+	v.Scale(5)
+	fmt.Printf("Before scaling:%+v, Abs:%v\n", v, v.Abs())
+}
