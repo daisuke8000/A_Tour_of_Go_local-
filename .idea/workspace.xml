@@ -34,13 +34,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test.html">
+  <component name="RunManager" selected="Go Build.go build exercise-string.go">
     <configuration name="go Tour_of_Go" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
@@ -50,19 +51,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build append.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build empty-interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Basics/append.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/empty-interface.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Basics/exercise-slices.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/exercise-string.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -74,27 +75,27 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build package.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build stringer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Basics/package.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/stringer.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build range-continued.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build type-assertion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Basics/range-continued.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/type-assertion.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build range.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build type-switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Basics/range.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/type-switch.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -104,20 +105,20 @@
     <list>
       <item itemvalue="Go Build.go build functions.go" />
       <item itemvalue="Go Build.go Tour_of_Go" />
-      <item itemvalue="Go Build.go build append.go" />
-      <item itemvalue="Go Build.go build range.go" />
-      <item itemvalue="Go Build.go build package.go" />
-      <item itemvalue="Go Build.go build range-continued.go" />
-      <item itemvalue="Go Build.go build exercise-slices.go" />
       <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="Go Build.go build empty-interface.go" />
+      <item itemvalue="Go Build.go build type-assertion.go" />
+      <item itemvalue="Go Build.go build type-switch.go" />
+      <item itemvalue="Go Build.go build stringer.go" />
+      <item itemvalue="Go Build.go build exercise-string.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercise-slices.go" />
-        <item itemvalue="Go Build.go build range-continued.go" />
-        <item itemvalue="Go Build.go build range.go" />
-        <item itemvalue="Go Build.go build package.go" />
-        <item itemvalue="Go Build.go build append.go" />
+        <item itemvalue="Go Build.go build exercise-string.go" />
+        <item itemvalue="Go Build.go build type-switch.go" />
+        <item itemvalue="Go Build.go build stringer.go" />
+        <item itemvalue="Go Build.go build type-assertion.go" />
+        <item itemvalue="Go Build.go build empty-interface.go" />
       </list>
     </recent_temporary>
   </component>
@@ -140,57 +141,76 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597297927007" />
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1597453037755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1597453037755" />
     <state width="508" height="466" key="DebuggerActiveHint" timestamp="1597401124948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="508" height="466" key="DebuggerActiveHint/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597401124948" />
-    <state width="723" height="567" key="GridCell.Tab.0.bottom" timestamp="1597402448271">
+    <state width="484" height="567" key="GridCell.Tab.0.bottom" timestamp="1597701837932">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="458" height="529" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597374940218" />
-    <state width="723" height="567" key="GridCell.Tab.0.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402448271" />
-    <state width="669" height="514" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597395125896" />
-    <state width="723" height="567" key="GridCell.Tab.0.center" timestamp="1597402448270">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597672921983" />
+    <state width="484" height="567" key="GridCell.Tab.0.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701837932" />
+    <state width="484" height="470" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700850454" />
+    <state width="484" height="567" key="GridCell.Tab.0.center" timestamp="1597701837931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="458" height="529" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597374940217" />
-    <state width="723" height="567" key="GridCell.Tab.0.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402448270" />
-    <state width="669" height="514" key="GridCell.Tab.0.center/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597395125894" />
-    <state width="723" height="567" key="GridCell.Tab.0.left" timestamp="1597402448269">
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597672921981" />
+    <state width="484" height="567" key="GridCell.Tab.0.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701837931" />
+    <state width="484" height="470" key="GridCell.Tab.0.center/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700850453" />
+    <state width="484" height="567" key="GridCell.Tab.0.left" timestamp="1597701837930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="458" height="529" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597374940217" />
-    <state width="723" height="567" key="GridCell.Tab.0.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402448269" />
-    <state width="669" height="514" key="GridCell.Tab.0.left/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597395125893" />
-    <state width="723" height="567" key="GridCell.Tab.0.right" timestamp="1597402448270">
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597672921981" />
+    <state width="484" height="567" key="GridCell.Tab.0.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701837930" />
+    <state width="484" height="470" key="GridCell.Tab.0.left/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700850452" />
+    <state width="484" height="567" key="GridCell.Tab.0.right" timestamp="1597701837931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="458" height="529" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597374940217" />
-    <state width="723" height="567" key="GridCell.Tab.0.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402448270" />
-    <state width="669" height="514" key="GridCell.Tab.0.right/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597395125895" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1597402358794">
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597672921982" />
+    <state width="484" height="567" key="GridCell.Tab.0.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701837931" />
+    <state width="484" height="470" key="GridCell.Tab.0.right/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700850453" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1597701749000">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402358794" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1597402358793">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597456367655" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701749000" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700837375" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1597701748999">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402358793" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1597402358793">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597456367654" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701748999" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700837374" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1597701748998">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402358793" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1597402358794">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597456367654" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701748998" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700837374" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1597701749000">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597402358794" />
-    <state x="418" y="176" width="604" height="548" key="find.popup" timestamp="1597397154651">
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597456367655" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597701749000" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597700837375" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1597546679459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="176" width="604" height="548" key="find.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597397154651" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597401081220">
+    <state x="221" y="89" key="SettingsEditor/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597546679459" />
+    <state x="418" y="176" width="738" height="548" key="find.popup" timestamp="1597546750426">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597401081220" />
+    <state x="418" y="176" width="604" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1597452905136" />
+    <state x="418" y="176" width="738" height="548" key="find.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597546750426" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597672535760">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597672535760" />
+    <state x="684" y="54" width="670" height="676" key="search.everywhere.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597544951349" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597468501687" />
   </component>
 </project>
