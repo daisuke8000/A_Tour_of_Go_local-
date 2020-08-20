@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013dce49-9178-42a5-84d6-abfc12b11e46" name="Default Changelist" comment="" />
+    <list default="true" id="013dce49-9178-42a5-84d6-abfc12b11e46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
     </option>
   </component>
   <component name="GOROOT" path="$USER_HOME$/.goenv/versions/1.14.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g20xfJXhYKkhwc8WOe0ylaqlUv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +47,7 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build paiza.go">
+  <component name="RunManager" selected="Go Build.go build exercise-images.go">
     <configuration name="go Tour_of_Go" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
@@ -51,19 +57,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build errors.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-images.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/errors.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build exercise-errors.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="A_Tour_of_Go_local" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/exercise-errors.go" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -75,11 +73,27 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build exercise-rot-reader.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/exercise-rot-reader.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="A_Tour_of_Go_local" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/functions.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build images.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="A_Tour_of_Go_local" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/images.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -91,34 +105,26 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build reader.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="A_Tour_of_Go_local" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Methods-and-interfaces/reader.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="test.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/A_Tour_of_Go_local/Basics/test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build functions.go" />
       <item itemvalue="Go Build.go Tour_of_Go" />
-      <item itemvalue="JavaScript Debug.test.html" />
-      <item itemvalue="Go Build.go build errors.go" />
-      <item itemvalue="Go Build.go build exercise-errors.go" />
-      <item itemvalue="Go Build.go build reader.go" />
       <item itemvalue="Go Build.go build exercise-reader.go" />
       <item itemvalue="Go Build.go build paiza.go" />
+      <item itemvalue="Go Build.go build exercise-rot-reader.go" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="Go Build.go build images.go" />
+      <item itemvalue="Go Build.go build exercise-images.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise-images.go" />
+        <item itemvalue="Go Build.go build images.go" />
+        <item itemvalue="Go Build.go build exercise-rot-reader.go" />
         <item itemvalue="Go Build.go build paiza.go" />
         <item itemvalue="Go Build.go build exercise-reader.go" />
-        <item itemvalue="Go Build.go build reader.go" />
-        <item itemvalue="Go Build.go build exercise-errors.go" />
-        <item itemvalue="Go Build.go build errors.go" />
       </list>
     </recent_temporary>
   </component>
@@ -149,53 +155,61 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="508" height="466" key="DebuggerActiveHint/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597401124948" />
-    <state width="615" height="567" key="GridCell.Tab.0.bottom" timestamp="1597788486108">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1597956975663">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="615" height="567" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597788486108" />
-    <state width="615" height="567" key="GridCell.Tab.0.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597787367306" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597841820427" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597844770008" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975663" />
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788078" />
-    <state width="615" height="567" key="GridCell.Tab.0.center" timestamp="1597788486107">
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1597956975662">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="615" height="567" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597788486107" />
-    <state width="615" height="567" key="GridCell.Tab.0.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597787367305" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597841820426" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597844770007" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975662" />
     <state width="1398" height="304" key="GridCell.Tab.0.center/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788076" />
-    <state width="615" height="567" key="GridCell.Tab.0.left" timestamp="1597788486106">
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1597956975661">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="615" height="567" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597788486106" />
-    <state width="615" height="567" key="GridCell.Tab.0.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597787367304" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597841820425" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597844770007" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975661" />
     <state width="1398" height="304" key="GridCell.Tab.0.left/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788076" />
-    <state width="615" height="567" key="GridCell.Tab.0.right" timestamp="1597788486108">
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1597956975663">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="615" height="567" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597788486108" />
-    <state width="615" height="567" key="GridCell.Tab.0.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597787367306" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597841820426" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597844770008" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975663" />
     <state width="1398" height="304" key="GridCell.Tab.0.right/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788077" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1597785178540">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1597956975668">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597456367655" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597785178540" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597841820429" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597844770009" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975668" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788175" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1597785178538">
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1597956975667">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597456367654" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597785178538" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597841820428" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597844770009" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975667" />
     <state width="1398" height="304" key="GridCell.Tab.1.center/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788174" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1597785178537">
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1597956975666">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597456367654" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597785178537" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597841820427" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597844770008" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975666" />
     <state width="1398" height="304" key="GridCell.Tab.1.left/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788173" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1597785178539">
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1597956975667">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597456367655" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597785178539" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597841820428" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597844770009" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597956975667" />
     <state width="1398" height="304" key="GridCell.Tab.1.right/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597784788174" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1597546679459">
       <screen x="0" y="0" width="1440" height="900" />
@@ -206,11 +220,11 @@
     </state>
     <state x="418" y="176" width="604" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1597452905136" />
     <state x="418" y="176" width="738" height="548" key="find.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597546750426" />
-    <state x="684" y="54" width="670" height="676" key="search.everywhere.popup" timestamp="1597785432374">
+    <state x="684" y="54" width="670" height="676" key="search.everywhere.popup" timestamp="1597935305301">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597672535760" />
-    <state x="684" y="54" width="670" height="676" key="search.everywhere.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597785432374" />
+    <state x="438" y="167" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597841848408" />
+    <state x="684" y="54" width="670" height="676" key="search.everywhere.popup/1440.0.1024.768/0.0.1440.900@0.0.1440.900" timestamp="1597935305301" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.23.1024.745/0.0.1440.900@0.0.1440.900" timestamp="1597782294240" />
   </component>
   <component name="XDebuggerManager">
@@ -220,6 +234,26 @@
           <url>file://$PROJECT_DIR$/../1.12.9/src/golang.org/x/tour/reader/validate.go</url>
           <line>29</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Methods-and-interfaces/exercise-images.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
